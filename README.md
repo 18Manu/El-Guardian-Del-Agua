@@ -16,17 +16,21 @@ El juego está publicado y funcional en las siguientes plataformas:
 🌐 1. WebGL
 
 👉 Jugar en línea sin instalar nada:
-🔗 [Enlace al juego WebGL aquí] (pon tu link de itch.io o Unity Play)
+🔗 [Enlace al juego WebGL aquí] (pon tu link de itch.io o Unity Play) https://manu-mata.itch.io/el-guardian-del-agua
+🔗 [Enlace al video WebGL aquí] (pon tu link de itch.io o Unity Play)
 
 💻 2. Windows (PC)
 
 👉 Descargar versión ejecutable (.exe):
-🔗 [Descargar versión para Windows] (link a tu zip en GitHub Releases)
+🔗 [Descargar versión para Windows] (link a tu zip en GitHub Releases) 
+🔗 [Enlace al video Windows (PC) aquí] (link a tu zip en GitHub Releases)
 
 📱 3. Android (APK)
 
 👉 Instalar en tu dispositivo Android:
 🔗 [Descargar APK]
+🔗 [Enlace al video Android (APK) aquí] (link a tu zip en GitHub Releases)
+
 
 ⚠ Si tu teléfono bloquea la instalación, habilita “Permitir instalación de orígenes desconocidos”.
 
