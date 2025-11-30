@@ -247,6 +247,7 @@ Debido a:
 
 
 Conclusion
+
 El Guardian del Agua no solo fue un proyecto académico, sino una experiencia profundamente personal. A lo largo del desarrollo, tuve la fortuna de contar con el apoyo más sincero y genuino que alguien puede tener: el de mi hermano menor, quien con apenas seis años se convirtió en mi mayor motivación.
 
 Él fue el primero en emocionarse al ver el personaje, en reír cuando algo se movía raro, en decirme con honestidad infantil qué le gustaba y qué no. Pero lo más importante es que, sin darse cuenta, me recordó la razón verdadera por la que vale la pena crear este tipo de juegos: los niños entienden, sienten y valoran el cuidado del mundo más de lo que imaginamos.
