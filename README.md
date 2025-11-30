@@ -17,6 +17,7 @@ El juego está publicado y funcional en las siguientes plataformas:
 
 👉 Jugar en línea sin instalar nada:
 🔗 [Enlace al juego WebGL aquí] (https://manu-mata.itch.io/el-guardian-del-agua)
+
 🔗 [Enlace al video WebGL aquí] (pon tu link de itch.io o Unity Play)
 
 💻 2. Windows (PC)
