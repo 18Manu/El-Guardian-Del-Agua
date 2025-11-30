@@ -1,185 +1,195 @@
-🌊💚 EL GUARDIÁN DEL AGUA 💚🌊
-🧒💧 Videojuego Educativo para Niños • Cuidado del Agua • Ecología y Contaminación
-<div style="background:#0d3b66;padding:15px;border-radius:10px;color:white;font-size:18px"> <b>✨ Un juego donde reparas tuberías, salvas el agua y cuidas el planeta. Diseñado para niños de 6 a 12 años.</b> </div>
-📘 Descripción
+🌊 EL GUARDIÁN DEL AGUA 🌱
+💧 Videojuego Educativo sobre Cuidado del Agua
 
-El Guardián del Agua es un videojuego educativo donde un pequeño héroe debe:
+El Guardián del Agua es un videojuego educativo para niños de 6 a 12 años, donde te conviertes en un héroe encargado de reparar tuberías, detener fugas y evitar la contaminación del agua.
+Creado con un estilo visual en verdes y azules, es 100% seguro para menores:
+✔ Sin cuentas
+✔ Sin datos personales
+✔ Sin anuncios
+✔ Sin compras
 
-🔧 Reparar tuberías rotas
-💦 Evitar fugas de agua
-🌱 Limpiar contaminación
-🌎 Proteger el medio ambiente
+🎮 Descripción del Juego
 
-El juego enseña responsabilidad ecológica mediante mecánicas simples, visuales coloridos y escenarios llenos de tuberías verdes y azules.
-Es 100% seguro para menores, no usa cuentas, no rastrea datos y no contiene compras.
+En este juego ayudarás al planeta:
+
+🔧 Reparando tuberías rotas
+
+💦 Deteniendo fugas de agua
+
+🌱 Limpiando áreas contaminadas
+
+🌍 Restaurando el ecosistema
+
+El objetivo es enseñar responsabilidad ambiental a través de mecánicas simples, niveles cortos y un entorno colorido.
 
 🚀 Plataformas Disponibles
-🌐 1. WebGL – Jugar Online
+🌐 WebGL — Jugar Online
 
-👉 Juega sin instalar nada:
-🔗 Jugar en WebGL
+Juega sin instalar nada:
+👉 https://manu-mata.itch.io/el-guardian-del-agua
 
-🎥 Video / Trailer:
-🔗 (Pon aquí tu enlace a Itch.io o Unity Play)
+🎥 Trailer / Gameplay
+👉 (Agrega tu enlace)
 
-💻 2. Windows (PC)
+💻 Windows (PC)
 
-👉 Descargar versión .exe:
-🔗 Descargar para Windows
+Descarga el .exe listo para jugar:
+👉 https://drive.google.com/file/d/1UNV97ig1t3hgti2FTpaPPb3m90HonwZP/view?usp=sharing
 
-🎥 Video Windows:
-🔗 (Enlace a tu ZIP o Video en GitHub)
+🎥 Video Windows
+👉 (Pon link de YouTube o GitHub)
 
-📱 3. Android (APK)
+📱 Android (APK)
 
-👉 Descargar APK:
-🔗 (Coloca tu enlace aquí)
+Descargar e instalar APK:
+👉 (Coloca tu enlace aquí)
 
-🎥 Video Android:
-🔗 (Tu enlace)
+🎥 Video Android
+👉 (Enlace a tu video)
 
-⚠ Si tu teléfono bloquea la instalación, activa:
+⚠ Si el dispositivo bloquea la instalación, activa:
 Configuración → Seguridad → Orígenes desconocidos
 
-🎮 Gameplay & Características
+🕹️ Gameplay y Características
 
-🌟 Características principales:
+🔧 Vida aleatoria de tuberías
 
-🔧 Vida de tuberías aleatoria
-
-🕹 Controles simples y amigables
+🕹 Controles simples para niños
 
 💧 Movimiento suave + animaciones completas
 
-🎵 Sonido de victoria (Winner Sound)
+🎵 Sonido de victoria
 
-⭐ Pantalla de Nivel Completado
+⭐ Pantalla de “Nivel Completado”
 
 🧭 Escenas: Menú, Juego1, Juego2, Juego3, Final
 
 🖱 Interacción con mouse y teclado
 
-📱 PC / Android / WebGL optimizado
+📱 Optimizado para PC, WebGL y Android
 
-🛡️ Aspectos Legales y Seguridad
-🔒 2.1 Leyes Internacionales Aplicables
-Categoría	Ley	Contenido	Aplicación al videojuego
-Protección de Datos	COPPA (EE.UU.)	Privacidad de menores	✔ NO recopila datos. ✔ Sin cuentas. ✔ Cien por ciento seguro.
-GDPR (Europa)	Privacidad de usuarios	✔ No solicita nombre, correo ni datos.	
-CCPA (California)	Control del consumidor	✔ No usamos datos. No aplica riesgos.	
-DMCA	Derechos de autor	✔ Todo contenido es legal y original.	
-Clasificación Infantil	ESRB / PEGI	Edad recomendada	✔ Apto para niños 6+. Sin violencia, lenguaje inapropiado ni compras.
-📊 2.2 Estudio de Mercado
+🔒 Seguridad y Cumplimiento
+
+Este videojuego cumple con todas las normas internacionales para contenido infantil:
+
+✔ COPPA (EE.UU.)
+
+No recolecta información personal, no usa cuentas ni rastreo.
+
+✔ GDPR (Europa)
+
+No solicita nombre, correo ni datos del usuario.
+
+✔ Sin publicidad / Sin compras
+
+Totalmente gratuito y seguro para menores.
+
+✔ Apto para escuelas
+
+No contiene lenguaje inapropiado, violencia ni riesgos.
+
+📊 Estudio de Mercado
 🎯 Público objetivo
 
-Niños 6–12 años
+Niños entre 6 y 12 años
 
-Juegan en Android, WebGL escolar, PC
+Usuarios de Android, WebGL escolar y PC
 
-Les gustan puzzles, aventuras y juegos cortos
+Les gustan juegos de puzzles, aventuras y reparar objetos
 
 ⚔️ Competencia
 
-Directa: apps educativas y ecológicas
+Directa: juegos ecológicos / educativos
 
-Indirecta: Roblox EDU, juegos de puzzles, Subway Surfers
+Indirecta: Roblox EDU, Subway Surfers, puzzles
 
 📈 Tendencias
 
-Crece el mercado EdTech
+Crecimiento del sector EdTech
 
-Fuerte enfoque ambiental en educación
+Interés creciente en educación ambiental
 
-Juegos de “reparar cosas” = mayor retención
+Popularidad de juegos “reparar y mejorar”
 
-⭐ 3. Propuesta de Valor
+⭐ Propuesta de Valor
 
-💚 Enseña ecológicamente sin sensación de tarea
-🔧 Mecánicas rápidas, claras y divertidas
-🏆 Logros inmediatos para motivación constante
-🌍 Perfecto para escuelas, talleres y clases ambientales
+El juego destaca porque ofrece:
+
+💚 Educación ecológica sin sentirse como tarea
+
+🔧 Mecánicas rápidas y satisfactorias
+
+🌊 Estilo artístico verde–azul
+
+🏆 Recompensas claras y motivadoras
+
+🏫 Ideal para usar en escuelas o talleres ambientales
 
 🔄 Engagement
 
-Niveles cortos y dinámicos
+Niveles cortos
 
 Sonidos motivadores
 
-Animaciones coloridas
+Animaciones llamativas
 
-Final positivo y educativo
+Final positivo que refuerza la responsabilidad ecológica
 
-🧒💚 Seguridad del Jugador
+🧒💙 Seguridad del Jugador
 
 ✔ 100% seguro para menores
-✔ No recopila datos personales
+
+✔ No recoge datos
+
 ✔ No publicidad
-✔ No microtransacciones
+
+✔ No compras
+
 ✔ No chat
+
 ✔ No loot boxes
-✔ No riesgos psicológicos
 
-📣 4. Canales de Marketing
+✔ No interacción con desconocidos
 
-📲 TikTok — Clips rápidos reparando tuberías
-▶️ YouTube — Trailer educativo
-📸 Instagram — Reels y material visual
-🕹 Itch.io — Plataforma principal
-🌐 Unity Play — Demo web compartible
 
-📊 Esquema de Monetización
-Modelo	¿Se usa?	Motivo
-Compra única	❌	Proyecto educativo
-Microtransacciones	❌	Prohibido para menores
-Publicidad	❌	Evita riesgos / distracciones
-DLC	❌	No aplica
-Battle Pass	❌	No es ese tipo de juego
-Suscripción	❌	Es gratuito
+📣 Canales de Marketing
+
+📲 TikTok – Clips reparando tuberías
+
+▶️ YouTube – Trailer educativo
+
+📸 Instagram – Reels y arte
+
+🎮 Itch.io – Página principal
+
+🌐 Unity Play – Demo WebGL
+
+💧 Modelo de Monetización
+
+El juego es completamente gratuito y NO incluye:
+
+❌ Publicidad
+
+❌ Microtransacciones
+
+❌ DLC
+
+❌ Suscripciones
+
+❌ Battle Pass
+
+❌ Compras de ningún tipo
+
 🎯 Clasificación del Videojuego
 
-Edad recomendada: 6+
+✔ Edad recomendada: 6+
 
-Sistema	Clasificación
-ESRB	E – Everyone
-PEGI	PEGI 3
-Escuela / Institución	Apto desde 6 años
+❌ Sin violencia
 
-Razones:
+❌ Sin lenguaje inapropiado
 
-No violencia
+❌ Sin contenido sensible
 
-No lenguaje inapropiado
+❌ Sin compras
 
-No anuncios
-
-No compras
-
-No interacción con desconocidos
-
-📌 Esquema Visual (Marketing Funnel)
-
-(Versión bonita con colores verde–azul)
-
-🌀 AWARENESS (Descubrimiento)
-   - TikTok, Reels, Shorts
-
-⬇️
-
-💬 ENGAGEMENT (Interacción)
-   - Demo WebGL
-   - Comentarios
-   - Discord / Mensajes
-
-⬇️
-
-📥 CONVERSION (Descarga)
-   - Windows
-   - Android
-   - WebGL
-
-⬇️
-
-💙 LOYALTY (Lealtad)
-   - Actualizaciones
-   - Nuevos niveles
-   - Cosméticos ecológicos
+❌ Sin anuncios
