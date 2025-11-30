@@ -20,6 +20,7 @@ En este juego ayudarás al planeta:
 
 🌍 Restaurando el ecosistema
 
+
 El objetivo es enseñar responsabilidad ambiental a través de mecánicas simples, niveles cortos y un entorno colorido.
 
 🚀 Plataformas Disponibles
@@ -31,6 +32,7 @@ Juega sin instalar nada:
 🎥 Trailer / Gameplay
 👉 (Agrega tu enlace)
 
+
 💻 Windows (PC)
 
 Descarga el .exe listo para jugar:
@@ -38,6 +40,7 @@ Descarga el .exe listo para jugar:
 
 🎥 Video Windows
 👉 (Pon link de YouTube o GitHub)
+
 
 📱 Android (APK)
 
